@@ -1,1 +1,2 @@
+Hello sample line added for branch 
 Test Git Quick Start demo
